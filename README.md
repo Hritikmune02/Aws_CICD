@@ -17,10 +17,6 @@ Our goal is to:
 
 ---
 
-📖 **Full Blog Post**: For a detailed, step-by-step walkthrough of this project, you can refer to the [full blog post](https://medium.com/@kevinkiruri/setting-up-a-continuous-deployment-pipeline-on-aws-2da40b519f69), authored by [Kevin Kiruri](https://www.linkedin.com/in/kevin-kiruri/) that covers each aspect comprehensively.
-
----
-
 ## Why Automation Matters
 
 In today's fast-paced development environment, automation is your secret weapon. It helps you ensure consistency, reduce errors, and speed up the delivery of your applications. AWS provides a powerful suite of tools to help you achieve this, and we'll explore them in this guide.
